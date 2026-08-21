@@ -4,10 +4,12 @@ This is a 3D printed PCB designed in Autodesk Fusion and KiCad. It uses 12 LEDs 
 
 # Assembly Instructions
 1. 3D print the PCB and all required parts.
-2. Place the 12 LEDs into their designated holes on the PCB. Make sure each LED is facing the correct direction.
+2. Place the 12 LEDs into their designated holes on the PCB. Make sure each LED is facing the correct direction. The Flat Edge of the LED **MUST** be facing the left.
+4. Bend the LED pins a little bit on the underside so that they are easier to solder.
 5. Apply copper tape to the PCB to create the electrical traces between the components. The copper tape should be applied as a large strip, then the grooves should be cut out to remove the larger piece of tape.
 6. Connect the ground connections together using copper tape.
-7. Connect the PCB to the Arduino Uno using the header pins.
+7. Now, Apply Solder Flux to all of the connections and use a small amount unleaded solder to fix the compoenents.
+8. Connect the PCB to the Arduino Uno using the header pins.
 ## DIY Instructions
 9. Program simple Arduino code and test the LEDs and buzzer.
 10. Program different LED flashing patterns and buzzer sounds to create the fireworks effect.
