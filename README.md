@@ -11,3 +11,8 @@ This is a 3D printed PCB designed in Autodesk Fusion and KiCad. It uses 12 LEDs 
 ## DIY Instructions
 9. Program simple Arduino code and test the LEDs and buzzer.
 10. Program different LED flashing patterns and buzzer sounds to create the fireworks effect.
+
+## Parts List
+12x LED Diodes
+2x 8 Pin Headers (Extra Long)
+1x 1 Pin Header (Can cut one off from a longer header module)
